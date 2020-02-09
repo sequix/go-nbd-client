@@ -1,2 +1,2 @@
-# go-nbd-client
-NBD client in Golang.
+# nbd
+nbd client and server in go.
